@@ -1,0 +1,8 @@
+/* Ekstra özelleştirmeler */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
